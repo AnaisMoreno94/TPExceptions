@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPExceptions", "TPExceptions\TPExceptions.csproj", "{49105214-6417-4F4A-8BE8-CBC0C72F37A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsExceptions", "WindowsExceptions\WindowsExceptions.csproj", "{8FC4AD21-06C4-4601-9D0C-CFBA8B126D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49105214-6417-4F4A-8BE8-CBC0C72F37A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49105214-6417-4F4A-8BE8-CBC0C72F37A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49105214-6417-4F4A-8BE8-CBC0C72F37A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49105214-6417-4F4A-8BE8-CBC0C72F37A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FC4AD21-06C4-4601-9D0C-CFBA8B126D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC4AD21-06C4-4601-9D0C-CFBA8B126D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC4AD21-06C4-4601-9D0C-CFBA8B126D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC4AD21-06C4-4601-9D0C-CFBA8B126D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6FD91C1-5A6E-4EE1-9EF8-A83EEBEFBF9E}
+	EndGlobalSection
+EndGlobal
